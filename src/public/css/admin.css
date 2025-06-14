@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+    height: 40px;
+
+}
+
+.header__title {
+    color: #ec87ef;
+    padding: 10px 20px;
+    font-size: 24px;
+    text-align: left;
+}
+
+.header__button {
+    display: flex;
+    text-align: right;
+    padding: 10px 20px;
+}

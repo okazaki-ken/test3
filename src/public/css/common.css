@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(
+        #cccff6 ,
+        #ffc1bb
+    );
+}
+
+.flame {
+    margin: 0 auto;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #fff;
+    text-align: center;
+
+}
+
+.title {
+    color: #ec87ef;
+}

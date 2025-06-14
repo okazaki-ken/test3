@@ -1,0 +1,20 @@
+.form__group {
+    text-align: left;
+}
+
+.form__group--text{
+    padding: 10px 20px;
+}
+
+.form__group--input {
+    padding: 10px 10px;
+    width: 20px;
+}
+
+.form_button {
+    text-align: center;
+    background: linear-gradient(90deg, #a3a7e1, #fcabd9);
+    border-radius: 5px;
+    width: 25px;
+    height: 120px;
+}
